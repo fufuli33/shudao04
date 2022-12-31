@@ -1,0 +1,26 @@
+html, body, #viewDiv {
+	  padding: 0;
+	  margin: 0;
+	  height: 100%;
+	  width: 100%;
+	}
+#popdiv_write{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	width: 160px;
+	height: 520px;
+	padding: 5px;
+	background-size: 100%;
+	background-color: #C0C0C0;
+	opacity: 0.85;
+	z-index: 9;
+	text-align: center;
+	border: #C0C0C0;
+	border-radius:5px ;
+}
+
+.basemap{
+	margin: 10px;
+	z-index: 20;
+}
